@@ -12,8 +12,9 @@
 	"license": "MIT",
 	"url": "https://github.com/piboistudios/firebase-util.git",
 	"contributors": [
+		"piboistudios",
 		"haxiomic"
 	],
 	"dependencies": {},
-	"version": "1.0.0"
+	"version": "1.4.2"
 }
